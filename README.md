@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" width="500"/>
+  <img src="https://indoanalytica.com/static/images/data-science-2.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
