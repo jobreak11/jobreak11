@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" width="100"/>
+  <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
