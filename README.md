@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://indoanalytica.com/static/images/data-science-2.gif" width="500"/>
+  <img src="https://indoanalytica.com/static/images/data-science-2.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
