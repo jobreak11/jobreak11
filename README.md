@@ -12,6 +12,14 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&labelColor=white" alt="Kaggle Badge" width="100"/>
   </a>
 </div>
+---
 
+### :toolbox: && :speech_balloon: :(Tools and Programming Languages)
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Colab" **alt="Colab" width="40" height="40"/>
+</div>
 
