@@ -24,6 +24,7 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Colab" **alt="Colab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" title="VS" **alt="VS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
 ---
