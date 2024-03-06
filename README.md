@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&labelColor=white" alt="Kaggle Badge" width="100"/>
   </a>
 </div>
+
 ---
 
 ### :toolbox: && :speech_balloon: :(Tools and Programming Languages)
