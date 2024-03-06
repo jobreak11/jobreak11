@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/gongtup-yeepacha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://www.kaggle.com/gongtuphellyeah" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&labelColor=white" alt="Kaggle Badge" width="100"/>
   </a>
