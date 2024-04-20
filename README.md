@@ -31,9 +31,8 @@
 ---
 ### My Git hub stats :
 
-<div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobreak11&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobreak11&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
