@@ -3,7 +3,7 @@
 
 It doesn't matter how much knowledge you have.
 
-Learning will never end. If you want to gain more sources, please visit my profile.
+Learning will never end. If you want to gain more sources, please visit my profile. I hope it would be helpful for you or not??? Well, we'll never know until you see them.
 
 <div id="header" align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
