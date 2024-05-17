@@ -34,10 +34,6 @@ Learning will never end. If you want to gain more sources, please visit my profi
 </div>
 
 ---
-### My Git hub stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jobreak11&theme=dark&background=000000)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobreak11&layout=pie&theme=vision-friendly-dark)]
 
 
