@@ -1,4 +1,4 @@
-### Greeting visitor!!!!
+### Greeting visitors!!!!
 ~~No Data without "Exploratory Data Analysis"~~
 
 It doesn't matter how much knowledge you have.
