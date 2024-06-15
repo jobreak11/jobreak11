@@ -10,8 +10,10 @@ Learning will never end. If you want to gain more sources, please visit my profi
 ### About me
 I enjoy using programming or many tools that are related to technology. Each tool has its limitations, so I need to understand more about how each tool works.
 It made me improve more about the adaptive skills that I have. When I was a student in college, I had some business concepts. That's why I am interested in data roles.
-I hope my sharing some sources might be helpful. who knows??? My sources will be old in the next day next month even next year. At least, I'll never stop learning new thing that coming to our world. \ 
+I hope my sharing some sources might be helpful. who knows??? My sources will be old in the next day next month even next year. At least, I'll never stop learning new things that coming to our world.
 # Hello world!!!!!!
+This is what programmers usually say right!!!!
+I think I am data roles, but right now I am also programmer.
 
 Currently, I am studying 42Bangkok school
 
