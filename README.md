@@ -19,6 +19,12 @@ And you can be anything also, so don't give up I understand y'all feelings for i
 At least, to improve your life graph will tell the truth!!!!!
 
 ---------
+
+
+<div id="header" align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
+</div>
+
 ### Other things about me
 :guitar: I am doing small projects for my music!!!! I can play many instruments. I played the instrument since I was young and I learned by myself through YT etc. without any courses. \
 :heavy_minus_sign: I am quite a sensitive and negative guy because of my music favorite I guess. I can be positive just let me play an instrument!!!! \
@@ -26,10 +32,6 @@ At least, to improve your life graph will tell the truth!!!!!
 :man: I am a lonely guy, but I am quite friendly as well. If anyone wants to help, I am willing to be a support to anyone if I can. \
 
 "No one is perfect, but If you want something. You can be if you don't dive into your negative feelings too much Keep going!!!!"
-
-<div id="header" align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gongtup-yeepacha/" target="_blank">
