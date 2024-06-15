@@ -15,8 +15,9 @@ I hope my sharing some sources might be helpful. who knows??? My sources will be
 This is what programmers usually say right!!!!
 I think I am in data roles, but right now I am also the programmer.
 And you can be anything also, so don't give up I understand y'all feelings for imposter syndrome.
+*Currently, I am studying 42Bangkok school*
 # We can be anything!!!!! Don't let anyone judge y'all life!!!!
-Currently, I am studying 42Bangkok school
+
 
 <div id="header" align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
