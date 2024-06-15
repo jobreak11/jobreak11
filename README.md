@@ -26,7 +26,8 @@ At least, to improve your life graph will tell the truth!!!!!
 </div>
 
 ### Other things about me
-:guitar: I am doing small projects for my music!!!! I can play many instruments. I played the instrument since I was young and I learned by myself through YT etc. without any courses. \
+:guitar: I am doing small projects for my music!!!! I can play many instruments. I played the instrument since I was young and I learned by myself through YT etc. without any courses. I can play jazz, pop, rock, metal anything that I interested in. \
+:headphones: I listen to a variety of music genres, but I like some heavy and sad taste. So, I love metal songs.
 :heavy_minus_sign: I am quite a sensitive and negative guy because of my music favorite I guess. I can be positive just let me play an instrument!!!! \
 :star: Sometimes, I feel like I have a big goal to be successful from my imagination. \
 :man: I am a lonely guy, but I am quite friendly as well. If anyone wants to help, I am willing to be a support to anyone if I can. \
