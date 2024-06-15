@@ -16,6 +16,7 @@ This is what programmers usually say right!!!!
 I think I am in data roles, but right now I am also the programmer.
 And you can be anything also, so don't give up I understand y'all feelings for imposter syndrome.
 # We can be anything!!!!! Don't let anyone judge y'all life!!!!
+At least, to improve your life graph will tell the truth!!!!!
 
 
 <div id="header" align="center">
