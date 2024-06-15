@@ -1,11 +1,11 @@
-### Greeting visitors!!!!
+### Greeting visitors!!!! 
 ~~No Data without "Exploratory Data Analysis"~~
 
 It doesn't matter how much knowledge you have.
 
 Learning will never end. If you want to gain more sources, please visit my profile. I hope it would be helpful for you or not??? We'll never know until you see them.
 
-
+:pray: :pray: :pray: kobkhunkrub(Thank you) :pray: :pray: :pray:
 ---------
 ### About me
 *Currently, I am studying at 42Bangkok school.* I enjoy using programming or many tools that are related to technology. Each tool has its limitations, so I need to understand more about how each tool works.
@@ -18,6 +18,14 @@ And you can be anything also, so don't give up I understand y'all feelings for i
 # We can be anything!!!!! Don't let anyone judge y'all life!!!!
 At least, to improve your life graph will tell the truth!!!!!
 
+---------
+### Other things about me
+:guitar: I am doing small projects for my music!!!! I can play many instruments. I played the instrument since I was young and I learned by myself through YT etc. without any courses.
+:heavy_minus_sign: I am quite a sensitive and negative guy because of my music favorite I guess. I can be positive just let me play an instrument!!!!
+:star: Sometimes, I feel like I have a big goal to be successful from my imagination.
+:man: I am a lonely guy, but I am quite friendly as well. If anyone wants to help, I am willing to be a support to anyone if I can.
+
+"No one is perfect, but If you want something. You can be if you don't dive into your negative feelings too much Keep going!!!!"
 
 <div id="header" align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
