@@ -60,10 +60,13 @@ At least, to improve your life graph will tell the truth!!!!!
 ---
 
 
-### :round_pushpin: Other tools that not related to coding
+### :round_pushpin: Other tools that are not related to coding
 
 
 <div>
-<img src="https://store-images.s-microsoft.com/image/apps.10768.13510798886194062.beeb6cfa-a41f-4fe5-b441-c123dddc44a5.37c2472c-90b3-4ada-a9c9-cce012b185e9?h=210" title="Git" **alt="fl_studio" width="40" height="40"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.10768.13510798886194062.beeb6cfa-a41f-4fe5-b441-c123dddc44a5.37c2472c-90b3-4ada-a9c9-cce012b185e9?h=210" title="fl_studio" **alt="fl_studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="excel" **alt="excel" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" title="tableau" **alt="tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="powerbi" **alt="powerbi" width="40" height="40"/>
 </div>
 
