@@ -60,4 +60,10 @@ At least, to improve your life graph will tell the truth!!!!!
 ---
 
 
+### :round_pushpin: Other tools that not related to coding
+
+
+<div>
+<img src="https://store-images.s-microsoft.com/image/apps.10768.13510798886194062.beeb6cfa-a41f-4fe5-b441-c123dddc44a5.37c2472c-90b3-4ada-a9c9-cce012b185e9?h=210" title="Git" **alt="fl_studio" width="40" height="40"/>
+</div>
 
