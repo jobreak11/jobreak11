@@ -13,8 +13,9 @@ It made me improve more about the adaptive skills that I have. When I was a stud
 I hope my sharing some sources might be helpful. who knows??? My sources will be old in the next day next month even next year. At least, I'll never stop learning new things that coming to our world.
 # Hello world!!!!!!
 This is what programmers usually say right!!!!
-I think I am data roles, but right now I am also programmer.
-
+I think I am in data roles, but right now I am also the programmer.
+And you can be anything also, so don't give up I understand y'all feelings for imposter syndrome.
+# We can be anything!!!!! Don't let anyone judge y'all life!!!!
 Currently, I am studying 42Bangkok school
 
 <div id="header" align="center">
