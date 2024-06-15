@@ -5,7 +5,14 @@ It doesn't matter how much knowledge you have.
 
 Learning will never end. If you want to gain more sources, please visit my profile. I hope it would be helpful for you or not??? We'll never know until you see them.
 
-Currently, I am studying at 42school.
+
+---------
+### About me
+I enjoy using programming or many tools that are related to technology. Each tool has its limitations, so I need to understand more about how each tool works.
+It made me improve more about the adaptive skills that I have. When I was a student in college, I had some business concepts. That's why I am interested in data roles.
+I hope my sharing some sources might be helpful. who knows??? My sources will be old in the next day next month even next year. At least, I'll never stop learning new thing that coming to our world. Hello world!!!!!!
+
+Currently, I am studying 42Bangkok school
 
 <div id="header" align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif?format=300w" width="200"/>
